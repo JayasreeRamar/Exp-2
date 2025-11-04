@@ -15,28 +15,32 @@ To design and develop a Library Management System that manages book records, mem
 
 # DIAGRAMS:
 # USECASE DIAGRAM:
-<img width="865" height="565" alt="Screenshot 2025-11-04 112523" src="https://github.com/user-attachments/assets/cc57f541-1964-400e-ad53-eb5451f87b24" />
+<img width="1041" height="873" alt="Screenshot 2025-11-04 113705" src="https://github.com/user-attachments/assets/82294c00-902c-48ea-a197-c3a40c4e2afa" />
 
 
 # CLASS DIAGRAM:
-<img width="942" height="748" alt="Screenshot 2025-11-04 112614" src="https://github.com/user-attachments/assets/4f235063-e70c-485c-9786-64085f2f7347" />
+<img width="1530" height="877" alt="Screenshot 2025-11-04 113630" src="https://github.com/user-attachments/assets/0ac8e5a3-8cfa-4f43-9a8e-18b38039ed9c" />
+
 
 
 # ACTIVITY DIAGRAM:
-<img width="1467" height="697" alt="Screenshot 2025-11-04 112507" src="https://github.com/user-attachments/assets/2c277eba-48ad-4a5e-9b4a-5853772012c1" />
+<img width="468" height="963" alt="image" src="https://github.com/user-attachments/assets/97396bc1-1ba0-4edb-aed8-4c3b2add572f" />
+
 
 
 # COMMUNICATION DIAGRAM:
-<img width="871" height="749" alt="Screenshot 2025-11-04 112605" src="https://github.com/user-attachments/assets/bde9e1df-bdcc-45b9-b1a8-a2201966c058" />
+<img width="1214" height="812" alt="image" src="https://github.com/user-attachments/assets/9874e567-316d-46b6-bbb8-e0115860d246" />
+
 
 
 
 # SEQUENCE DIAGRAM:
-<img width="1061" height="854" alt="Screenshot 2025-11-04 112541" src="https://github.com/user-attachments/assets/d9a0da4f-42b0-466f-8d15-5db115e3d415" />
+<img width="1104" height="762" alt="image" src="https://github.com/user-attachments/assets/06fc9702-4a10-47a3-9e93-f942e1481584" />
 
 
 # PACKAGE DIAGRAM:
-<img width="1140" height="704" alt="Screenshot 2025-11-04 112553" src="https://github.com/user-attachments/assets/0b1b7834-bafa-47c7-8ec5-b3191995f8bf" />
+<img width="1223" height="695" alt="Screenshot 2025-11-04 113642" src="https://github.com/user-attachments/assets/7b36dee6-ad77-41e2-9c0b-395ff84e7032" />
+
 
 # RESULT:
 The Library Management System was successfully designed, developed, and tested as per the specified requirements.
